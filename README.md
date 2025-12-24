@@ -9,3 +9,11 @@ SQL Server
 Azure Service Bus
 Azure Functions
 Azure App Service
+
+
+Core Features:
+User login (JWT)
+Place order
+Order tracking
+Admin dashboard
+Email/SMS notification (async)
